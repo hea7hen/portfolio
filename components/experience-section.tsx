@@ -306,10 +306,10 @@ function ContactSection() {
                   <div>
                     <p className="font-medium text-foreground">Email</p>
                     <a
-                      href="mailto:abinair314@gmail.com"
+                      href="mailto:abhisheknair616@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      abinair314@gmail.com
+                      abhisheknair616@gmail.com
                     </a>
                   </div>
                 </div>
