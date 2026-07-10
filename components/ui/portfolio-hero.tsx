@@ -254,6 +254,8 @@ export default function Component() {
 
     { label: "PROJECTS", href: "#projects" },
 
+    { label: "WHITE PAPERS", href: "#whitepaper" },
+
     { label: "EXPERIENCE", href: "#experience" },
 
     { label: "RESUME", href: "#contact-section" },
